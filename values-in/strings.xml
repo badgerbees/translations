@@ -2636,15 +2636,15 @@ Tekan suatu tombol untuk menetapkan tindakannya.</string>
     <string name="store_recommended_plugin">Plugin rekomendasi</string>
 
 
-    <string name="dialog_migratefb_title">Action needed</string>
-    <string name="dialog_migratefb_text">You seem to be logged in using a Facebook account. Unfortunately, this kind of access is deprecated and can no longer be supported.\nPlease login using a forum account to migrate your data.</string>
-    <string name="dialog_migratefb_cmdaccountsettings">Account settings</string>
-    <string name="draft_feature_opera00_title">Opera House</string>
-    <string name="draft_feature_opera00_text">Unleash the magic of culture with our Cultural Delight Bundle! Experience the grandeur of an Opera House, accompanied by a serene park and enchanting fountain. Elevate your city\'s atmosphere and inspire your citizens with the harmonious blend of music, nature, and artistic allure. Upgrade now and let your city shine as a cultural masterpiece!</string>
+    <string name="dialog_migratefb_title">Diperlukan tindakan</string>
+    <string name="dialog_migratefb_text">Sepertinya anda masuk menggunakan akun Facebook. Sayangnya, akses semacam ini sudah tak bisa dipakai lagi.\nTolong login melalui akun forum untuk migrasi data anda.</string>
+    <string name="dialog_migratefb_cmdaccountsettings">Pengaturan akun</string>
+    <string name="draft_feature_opera00_title">Gedung Opera</string>
+    <string name="draft_feature_opera00_text">Lepaskanlah keajaiban budaya dengan Cultural Delight Bundle kami! Rasakanlah keagungan sebuah Gedung Opera, disertai dengan taman yang tenang dan air mancur yang mempesona. Angkatkan atmosfer kotamu dan bangkitkan pendudukmu dengan perpaduan harmonis antara musik, alam, dan daya pikat artistik. Upgrade sekarang dan biarkan kota anda bersinar sebagai mahakarya budaya!</string>
     <string name="draft_opera00_title">Operatic Oasis</string>
-    <string name="draft_opera00_text">Step into the Melody Manor, your city\'s cultural heartbeat! This stunning Opera House adds a touch of elegance and finesse to your metropolis. Watch as it influences your citizens, turning them into refined connoisseurs of the arts. Let the harmonious vibes flow and the laughter rise!</string>
+    <string name="draft_opera00_text">Berlangkahlah ke Rumah Melodi, detak jantung budaya kota anda! Gedung Opera yang menakjubkan ini menambahkan sentuhan keanggunan dan kemahiran ke kota metropolis Anda. Lihatlah sesaat ia memengaruhi pendudukmu, mengubahnya menjadi penikmat seni yang halus. Biarkan getaran harmonis mengalir dan tawa mengembang!</string>
     <string name="draft_opera_park00_title">Serene Symphony Park</string>
-    <string name="draft_opera_park00_text">Nestled beside the Opera House, Serene Symphony Park is an enchanting haven where nature dances to the melodies of opera. Relax in its lush green spaces, enjoy impromptu performances, and let the harmonious fusion of culture and nature rejuvenate your soul.</string>
-    <string name="stage_comment_plugin_acquirefirst">Please acquire this plugin first</string>
+    <string name="draft_opera_park00_text">Terletak di samping Gedung Opera, Serene Symphony Park adalah surga yang mempesona di mana alam menari mengikuti melodi opera. Bersantai di ruang hijaunya yang subur, menikmati pertunjukan dadakan, dan biarkan perpaduan harmonis antara budaya dan alam meremajakan jiwa anda.</string>
+    <string name="stage_comment_plugin_acquirefirst">Tolong dapatkan plugin ini terlebih dahulu</string>
 
 </resources>
